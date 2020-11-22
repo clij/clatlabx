@@ -11,7 +11,7 @@ and its matlab code generator
 ![Image](images/clablabx-screenshot.png)
 
 ## Installation
-Download the following files, removed the numbers from their file endings and put them all in the `<HOME_DIR>/Documents/MATLAB folder:
+Download the following files, remove the numbers from their file endings and put them all in the `<HOME_DIR>/Documents/MATLAB folder:
 * [clatlabx-0.30.0.9-jar-with-dependencies.jar](https://github.com/clij/clatlabx/releases/download/0.30.0.9/clatlabx-0.30.0.9-jar-with-dependencies.jar)
 * [init_clatlabx.m](https://github.com/clij/clatlabx/blob/master/src/main/matlab_install/init_clatlabx.m)
 
