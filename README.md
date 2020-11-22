@@ -31,7 +31,7 @@ Copy it to your clatlab/matlab java classpath.
 
 ```bash
 git clone https://github.com/clij/clatlabx
-cd clatlab
+cd clatlabx
 mvn package
 cp target/clatlabx*.jar classpath/
 ```
