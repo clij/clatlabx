@@ -5,7 +5,10 @@ clatlabx is a bridge between
 [clijx](https://clij.github.io/clijx), 
 the eXperimental sibling of [clij2](https://clij.github.io/clij2).
 
-![Image](images/clablab-screenshot.png)
+For scripting clatlabx it's recommended to use [CLIJx-assistant](https://clij.github.io/assistant)
+and its matlab code generator
+
+![Image](images/clablabx-screenshot.png)
 
 ## Installation
 Download the following files, removed the numbers from their file endings and put them all in the `<HOME_DIR>/Documents/MATLAB folder:
