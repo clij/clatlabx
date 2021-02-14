@@ -12,7 +12,7 @@ and its matlab code generator
 
 ## Installation
 Download the following files and put them all in the `<HOME_DIR>/Documents/MATLAB folder:
-* [clatlabx-0.30.1.14-jar-with-dependencies.jar](https://github.com/clij/clatlabx/releases/download/0.30.1.14/clatlabx-0.30.1.14-jar-with-dependencies.jar)
+* [clatlabx-0.30.1.19-jar-with-dependencies.jar](https://github.com/clij/clatlabx/releases/download/0.30.1.19/clatlabx-0.30.1.19-jar-with-dependencies.jar)
 * [init_clatlabx.m](https://github.com/clij/clatlabx/blob/master/src/main/matlab_install/init_clatlabx.m)
 
 Test the installation by executing this script from matlab:
