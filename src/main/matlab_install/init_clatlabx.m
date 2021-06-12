@@ -13,7 +13,7 @@
 
 function clatlabx_ = init_clatlabx()
     if (exist('net.haesleinhuepf.clatlab.CLATLABx') ~= 8)
-		jar_location = strrep(mfilename('fullpath'), 'init_clatlabx', 'clatlabx-0.31.0.6-jar-with-dependencies.jar');
+		jar_location = strrep(mfilename('fullpath'), 'init_clatlabx', 'clatlabx-0.32.0.1-jar-with-dependencies.jar');
         javaaddpath(jar_location);
     end
     clatlabx_ = net.haesleinhuepf.clatlab.CLATLABx.getInstance();

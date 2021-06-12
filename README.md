@@ -5,14 +5,14 @@ clatlabx is a bridge between
 [clijx](https://clij.github.io/clijx), 
 the eXperimental sibling of [clij2](https://clij.github.io/clij2).
 
-For scripting clatlabx it's recommended to use [CLIJx-assistant](https://clij.github.io/assistant)
-and its matlab code generator
+For scripting clatlabx it's recommended to use [CLIJx-assistant](https://clij.github.io/clijx-assistant)
+and its matlab code generator.
 
 ![Image](images/clablabx-screenshot.png)
 
 ## Installation
 Download the following files and put them all in the `<HOME_DIR>/Documents/MATLAB folder:
-* [clatlabx-0.31.0.6-jar-with-dependencies.jar](https://github.com/clij/clatlabx/releases/download/0.31.0.6/clatlabx-0.31.0.6-jar-with-dependencies.jar)
+* [clatlabx-0.32.0.1-jar-with-dependencies.jar](https://github.com/clij/clatlabx/releases/download/0.32.0.1/clatlabx-0.32.0.1-jar-with-dependencies.jar)
 * [init_clatlabx.m](https://github.com/clij/clatlabx/blob/master/src/main/matlab_install/init_clatlabx.m)
 
 Test the installation by executing this script from matlab:
@@ -23,7 +23,7 @@ clijx.getGPUName()
 ```
 
 ## Example code
-Examples are available in the [clatlabx](https://github.com/clij/clatlab/) repository. 
+Examples are available in the [clatlab](https://github.com/clij/clatlab/) repository. 
 
 ## How to develop clatlabx
 Clone this repository and build it using maven. Afterwards, you find the `clatlabx.jar` in the `target` directory. 

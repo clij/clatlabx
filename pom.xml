@@ -7,12 +7,12 @@
 	<parent>
 		<groupId>net.haesleinhuepf</groupId>
 		<artifactId>clij-parent-pom</artifactId>
-		<version>2.3.0.6</version>
+		<version>2.5.0.1</version>
 	</parent>
 
 	<groupId>net.haesleinhuepf</groupId>
 	<artifactId>clatlabx</artifactId>
-	<version>0.31.0.6</version>
+	<version>0.32.0.1</version>
 	<name>CLATLABx</name>
 	<description>CLIJx bridge to Matlab</description>
 
@@ -147,6 +147,14 @@
 				<exclusion>
 					<groupId>edu.mines</groupId>
 					<artifactId>mines-jtk</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>com.github.sbridges.object-inspector</groupId>
+					<artifactId>object-inspector</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>org.jhotdraw</groupId>
+					<artifactId>jhotdraw</artifactId>
 				</exclusion>
 			</exclusions>
 		</dependency>
